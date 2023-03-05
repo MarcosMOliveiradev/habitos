@@ -1,0 +1,1 @@
+// para executar o comando no package.json basta colocar no terminal "npm run dev"
